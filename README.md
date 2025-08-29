@@ -1,7 +1,7 @@
 ## First Principles
 
 **Bitcoin Eco** is the result of five years of focused development, grounded in patience, experience, and a commitment to first-principles thinking.  
-No shortcuts. No compromises. No airdrops, bounties, giveaways, hype, or pump-and-dump schemes — just real work and long-term vision.  
+No shortcuts. No compromises. No airdrops, bounties, giveaways, hype, or pump-and-dump schemes, just real work and long-term vision.  
 Built for speed, sustainability, and simplicity.
 
 ---
